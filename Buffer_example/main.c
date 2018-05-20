@@ -15,7 +15,7 @@
 volatile uint8_t PLC_ID=0;
 volatile uint8_t packet_received=0;
 
-
+// This code is now maintained under github
 
 typedef struct{
 	//Array of chars
